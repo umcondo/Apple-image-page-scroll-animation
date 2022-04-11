@@ -66,7 +66,7 @@ const updateImage2 = (index) => {
 window.addEventListener("scroll", () => {
   if (html.scrollTop <= (html.scrollHeight - window.innerHeight) / 2) {
     const scrollTop = html.scrollTop;
-    //   console.log(scrollTop);
+    // console.log(scrollTop);
     //   console.log(html.scrollHeight);
     //   console.log(window.innerHeight);
     const maxScrollTop = (html.scrollHeight - window.innerHeight) / 2;
