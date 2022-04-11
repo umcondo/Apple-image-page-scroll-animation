@@ -9,3 +9,6 @@
 
 text scroll library
 [https://github.com/Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr)
+
+배포
+https://umcondostorage.netlify.app/apple_scroll_animation/
